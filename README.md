@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @FasyekhKhoirulMubarrok
 - 👀 I’m interested in Backend on Game Development (Game Engineer)
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning about cyber security
 - 📫 How to reach me fasyekhkhoirulmubarrok@gmail.com
 
 <!---
